@@ -29,6 +29,13 @@ dev_dependencies:
   flutter_test:
     sdk: flutter
 
+  appcenter:
+
+
+  appcenter_analytics:
+
+
+  appcenter_crashes:
 
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
